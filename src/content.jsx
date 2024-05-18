@@ -110,7 +110,7 @@ function Content() {
         <div class="m-auto ">
             <div>
                   <span class="text-3xl font-bold">Web Devlopment</span>
-                  <p class="font-semibold m-auto text-center  ">By Exppert Mentors</p>
+                  <p class="font-semibold m-auto text-center  ">By Expert Mentors</p>
             </div>
         </div>
     
