@@ -26,7 +26,7 @@ function Nav() {
                 Login/signup
                </button>
            </div>
-           <div class=" text-2xl  font-bold sm:flex md:hidden border-2 border-white p-1 w-12 flex justify-center "><a href="#">&#9776;</a></div>
+           <div class=" text-2xl  font-bold sm:flex md:hidden border-2 border-white p-1 w-12 flex justify-center mt-1"><a href="#">&#9776;</a></div>
      </nav>
      <div>
       
