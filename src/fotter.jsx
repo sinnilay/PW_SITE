@@ -39,7 +39,7 @@ function Fotter() {
             </div>
         </div>
         <div>
-            <div class="flex flex-col  mt-6 md:mt-12 w-auto ml-2 md:ml-0 mb-5 md:mb-0">
+            <div class="flex flex-col  mt-6 md:mt-12 w-auto ml-2 md:ml-0 mb-5 md:mb-0 ">
                <p class=" text-2xl  md:text-3xl font-bold text-white ">Products</p>
                 <div class=" border-b-4 w-96 h-1 border-orange-300  items-center   md:w-96 md:h-2 md:mt-3 md:border-b-5 rounded-lg mt-4"> 
 
