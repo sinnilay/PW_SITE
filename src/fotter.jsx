@@ -7,8 +7,8 @@ function Fotter() {
         <div>
             <div class="flex flex-col mt-12">
                <img class=" w-32 md:w-36 "src="https://lab.pwskills.com/images/PWSkills-white.png" alt="" />
-               <span class="flex flex-row mt-8 gap-4 text-xl ml-2"> <img class=" w-9"  src="https://i.pinimg.com/originals/c3/0e/ee/c30eee73a5e3d31b072f555985175165.jpg " alt="" /> <p class=" font-bold my-auto">support@pwskills.com</p></span> 
-               <span class="flex flex-row  mt-4  gap-2 text-xl ml-2"> <img class=" w-9"  src="https://w7.pngwing.com/pngs/421/683/png-transparent-computer-icons-mobile-phones-telephone-email-home-business-phones-phone-icon-miscellaneous-angle-service-thumbnail.png" alt="" /> <p class=" font-bold my-auto">+91-8318461569</p></span>
+               <span class="flex flex-row mt-8 gap-4 text-xl ml-2"> <img class=" w-9"  src="https://i.pinimg.com/originals/c3/0e/ee/c30eee73a5e3d31b072f555985175165.jpg " alt="" /> <a href="mailto:singhnilay55@gmail.com"><p class=" font-bold my-auto">support@pwskills.com</p></a></span> 
+               <span class="flex flex-row  mt-4  gap-2 text-xl ml-2"> <img class=" w-9"  src="https://w7.pngwing.com/pngs/421/683/png-transparent-computer-icons-mobile-phones-telephone-email-home-business-phones-phone-icon-miscellaneous-angle-service-thumbnail.png" alt="" /> <a href="tel:8318461569"><p class=" font-bold my-auto">+91-8318461569</p></a></span>
                <span class="flex flex-row  mt-7 ml-2 gap-7">
                   <img class=" w-10" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-jz44rpiz.png" alt="" />
                   <img class="w-10" src="https://cdn-icons-png.flaticon.com/256/152/152810.png" alt="" />
