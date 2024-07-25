@@ -38,10 +38,10 @@ function Nav() {
            
            >&#9776;</button>
      </nav>
-     <div id="nav" class=" md:hidden text-5xl text-bold text-white absolute top-[10%] h-80 w-full bg-slate-900"
+     <div id="nav" class=" md:hidden text-5xl text-bold text-white absolute top-[13%] h-80 w-full bg-slate-900"
      style={{display:display}} 
      >
-        HELLO WORLD
+        COMMING SOON
      </div>
     </>
   
