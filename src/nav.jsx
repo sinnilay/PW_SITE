@@ -38,7 +38,7 @@ function Nav() {
            
            >&#9776;</button>
      </nav>
-     <div id="nav" class=" md:hidden text-5xl text-bold text-white absolute top-[13%] h-80 w-full bg-slate-900"
+     <div id="nav" class=" md:hidden text-5xl text-bold text-white absolute top-[11.5%] h-80 w-full bg-slate-900"
      style={{display:display}} 
      >
         COMMING SOON
