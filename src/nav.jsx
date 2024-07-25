@@ -3,8 +3,16 @@ import { BrowserRouter, Link } from "react-router-dom";
 import './App.css'
 import About from "./About";
 import Customroutes from "./customroutes";
+import { useState } from "react";
+
 function Nav() {
-  
+ let [display,setdisplay] = useState("none")
+ function toggle_display() {
+      if (display==="none") {
+            setdisplay("block")    
+      }
+      else setdisplay("none")
+ }
 
   return (
     <>
@@ -26,13 +34,21 @@ function Nav() {
                 Login/signup
                </button>
            </div>
-           <div class=" text-2xl  font-bold sm:flex md:hidden border-2 border-white p-1 w-12 flex justify-center mt-1 "><a href="#">&#9776;</a></div>
+           <button onClick={toggle_display} id="btn" class=" text-2xl  font-bold sm:flex md:hidden border-2 border-white p-1 w-12 flex justify-center mt-1 "
+           
+           >&#9776;</button>
      </nav>
-     <div>
-      
+     <div id="nav" class=" md:hidden text-5xl text-bold text-white absolute top-[10%] h-80 w-full bg-slate-900"
+     style={{display:display}} 
+     >
+        HELLO WORLD
      </div>
     </>
+  
   )
+  
 }
+
+
 
 export default Nav
