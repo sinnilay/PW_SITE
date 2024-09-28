@@ -19,7 +19,7 @@ function Nav() {
     
      <nav class=" fixed top-0 left-0 right-0 bg-slate-900 p-4 flex justify-between sm:p-[15px] md:bg-slate-700 text-white sm:h-auto sm:w-full h-auto border-2 border-red-500 md:border-white">
            <div class=" text-2xl font-bold sm:text-3xl tracking-wider mt-1 ">
-                 <img class=" w-32 md:w-36 "src="https://lab.pwskills.com/images/PWSkills-white.png" alt="" />
+                 <img class=" w-32 md:w-36 "src="https://lab.pwskills.com/images/PWSkills-white.png" alt="PW-LGO" />
                  {/* <span class="text-yellow-500 font-serif sm:text-2xl"> PW </span> <span class =" sm:text-2xl font-serif text-pink-200"> SKILLS</span> */}
            </div>
            <div className='hidden sm:hidden md:block sm:font-bold sm:text-xl m-auto'>
